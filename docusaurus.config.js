@@ -2,7 +2,7 @@ module.exports = {
   title: "SafeDynamicAPI Documentation",
   tagline:
     "Automatically generate APIs with your own authentication or via facebook, google, github, bitbucket or linkedin with customized roles and permissions, from MySQL/MariaDB database, PostgreSQL, SQL Server or SQLite with source code.",
-  url: "https://safedynamicapi.com",
+  url: "https://safe-dynamic-api-doc.vercel.app",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",

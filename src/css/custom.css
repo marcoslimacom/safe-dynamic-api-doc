@@ -37,3 +37,7 @@ footer.footer.footer--dark {
 .footer__link-item:hover {
   color: #fff;
 }
+
+article h2 {
+  border-bottom: 1px solid #053644;
+}

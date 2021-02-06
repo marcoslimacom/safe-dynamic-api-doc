@@ -25,8 +25,8 @@ module.exports = {
         },
         { to: "docs/change-logs", label: "Change logs", position: "left" },
         {
-          href: "https://github.com/facebook/docusaurus",
-          label: "GitHub",
+          href: "#",
+          label: "Buy",
           position: "right",
         },
       ],
@@ -90,13 +90,13 @@ module.exports = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           editUrl:
-            "https://github.com/marcoslimacom/safe-dynamic-api-doc/edit/master/website/",
+            "https://github.com/marcoslimacom/safe-dynamic-api-doc/edit/master/",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            "https://github.com/marcoslimacom/safe-dynamic-api-doc/edit/master/website/blog/",
+            "https://github.com/marcoslimacom/safe-dynamic-api-doc/edit/master/blog/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),

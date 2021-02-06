@@ -14,8 +14,8 @@ const features = [
       <>
         Automatically generate APIs with your own authentication or via
         facebook, google, github, bitbucket or linkedin with customized roles
-        and permissions, from MySQL/MariaDB database, PostgreSQL, SQL Server or
-        SQLite with source code.
+        and permissions from MySQL/MariaDB, PostgreSQL, SQL Server or SQLite
+        databases with source code.
       </>
     ),
   },

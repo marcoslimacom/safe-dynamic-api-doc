@@ -33,3 +33,7 @@ footer.footer.footer--dark {
   width: auto;
   margin: 20px 0 30px;
 }
+
+.footer__link-item:hover {
+  color: #fff;
+}

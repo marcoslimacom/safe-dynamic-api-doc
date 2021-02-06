@@ -1,29 +1,29 @@
 module.exports = {
   title: "SafeDynamicAPI Documentation",
   tagline:
-    "Automatically generate APIs with your own authentication or via facebook, google, github, bitbucket or linkedin with customized roles and permissions, from MySQL/MariaDB database, PostgreSQL, SQL Server or SQLite with source code.",
+    "Automatically generate APIs with your own authentication or via facebook, google, github, bitbucket or linkedin with customized roles and permissions from MySQL/MariaDB, PostgreSQL, SQL Server or SQLite databases with source code.",
   url: "https://safe-dynamic-api-doc.vercel.app",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  organizationName: "facebook", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  organizationName: "marcoslimacom", // Usually your GitHub org/user name.
+  projectName: "safe-dynamic-api-doc", // Usually your repo name.
   themeConfig: {
     navbar: {
       title: "SafeDynamicAPI",
       logo: {
-        alt: "SafeDynamicAPIo",
+        alt: "SafeDynamicAPI",
         src: "img/logo.png",
       },
       items: [
         {
-          to: "docs/",
+          to: "docs",
           activeBasePath: "docs",
           label: "Docs",
           position: "left",
         },
-        { to: "blog", label: "Blog", position: "left" },
+        { to: "docs/change-logs", label: "Change logs", position: "left" },
         {
           href: "https://github.com/facebook/docusaurus",
           label: "GitHub",
@@ -90,13 +90,13 @@ module.exports = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           editUrl:
-            "https://github.com/facebook/docusaurus/edit/master/website/",
+            "https://github.com/marcoslimacom/safe-dynamic-api-doc/edit/master/website/",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            "https://github.com/facebook/docusaurus/edit/master/website/blog/",
+            "https://github.com/marcoslimacom/safe-dynamic-api-doc/edit/master/website/blog/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),

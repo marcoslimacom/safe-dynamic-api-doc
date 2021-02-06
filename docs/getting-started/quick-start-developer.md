@@ -8,6 +8,8 @@ sidebar_label: Quick start developer
 
 [Click here for the demo](https://safe-dynamic-api-demo.dreamhosters.com/)
 
+[Sample Mysql database](https://github.com/marcoslimacom/safe-dynamic-api-demo-frontend/blob/master/safe-dynamic-api-demo-mysql-db.sql)
+
 ### Credentials
 
 #### Admin:

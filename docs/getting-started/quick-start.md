@@ -8,6 +8,8 @@ sidebar_label: Quick start
 
 [Click here for the demo](https://safe-dynamic-api-demo.dreamhosters.com/)
 
+[Sample Mysql database](https://github.com/marcoslimacom/safe-dynamic-api-demo-frontend/blob/master/safe-dynamic-api-demo-mysql-db.sql)
+
 ### Credentials
 
 #### Admin:
@@ -92,4 +94,5 @@ Password: 1234rewq
 You will be automatically redirected to the backend. If you changed these values in the seeder prior, then obviously use the ones you updated to.
 
 ### 7. What's Next?
+
 At this point you have all that you need, you can browse the code base and build the rest of your application the way you normally would. Or you can visit other parts of the documentation to get a good grasp on what'ss going on behind the scenes.

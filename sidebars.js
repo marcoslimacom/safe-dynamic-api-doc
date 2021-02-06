@@ -5,6 +5,10 @@ module.exports = {
       "getting-started/quick-start",
       "getting-started/quick-start-developer",
     ],
-    Documentation: ["documentation/source-code"],
+    Documentation: [
+      "documentation/source-code",
+      "documentation/apis",
+      "documentation/config-main-features",
+    ],
   },
 };

@@ -38,12 +38,24 @@ module.exports = {
           title: "Docs",
           items: [
             {
-              label: "Style Guide",
+              label: "Getting Started",
               to: "docs/",
             },
             {
-              label: "Second Doc",
-              to: "docs/doc2/",
+              label: "Source code",
+              to: "docs/documentation/source-code",
+            },
+            {
+              label: "Use of dynamic APIs",
+              to: "docs/documentation/apis",
+            },
+            {
+              label: "Configuration of the main features",
+              to: "docs/documentation/config-main-features",
+            },
+            {
+              label: "Permissions Setting",
+              to: "docs/documentation/permissions-setting",
             },
           ],
         },

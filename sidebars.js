@@ -9,6 +9,7 @@ module.exports = {
       "documentation/source-code",
       "documentation/apis",
       "documentation/config-main-features",
+      "documentation/permissions-setting",
     ],
   },
 };

@@ -25,7 +25,7 @@ module.exports = {
         },
         { to: "docs/change-logs", label: "Change logs", position: "left" },
         {
-          href: "#",
+          href: "https://go.hotmart.com/W47317725C",
           label: "Buy",
           position: "right",
         },

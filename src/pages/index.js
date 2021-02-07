@@ -64,8 +64,8 @@ function Home() {
   const { siteConfig = {} } = context;
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />"
+      title={`${siteConfig.title}`}
+      description="Automatically generate APIs with your own authentication or via facebook, google, github, bitbucket or linkedin with customized roles and permissions from MySQL/MariaDB, PostgreSQL, SQL Server or SQLite databases with source code."
     >
       <header className={clsx("hero hero--primary", styles.heroBanner)}>
         <div className="container">

@@ -2,6 +2,7 @@
 id: safedynamicapi
 title: SafeDynamicAPI
 sidebar_label: SafeDynamicAPI
+slug: /
 ---
 
 SafeDynamicAPI Documentation by Marcos Lima [v1.0.0](https://safe-dynamic-api-doc.vercel.app/docs/change-logs)

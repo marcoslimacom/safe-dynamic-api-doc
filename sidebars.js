@@ -1,5 +1,8 @@
 module.exports = {
   someSidebar: {
+    "About": [
+      "about/safedynamicapi",
+    ],
     "Getting Started": [
       "getting-started/requirements",
       "getting-started/quick-start",
